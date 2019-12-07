@@ -5,6 +5,8 @@ public class Test {
             System.out.println (s);
             System.out.println (s);
             System.out.println (s);
+            System.out.println (s);
+            System.out.println (s);
         }
     }
 }
