@@ -1,3 +1,4 @@
+// dobry komentarz
 public class Test {
     public static void main(String[] args) {
         for (String s : "malpa" , "kot"), ("fs"), ("fnesingis"){
